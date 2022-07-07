@@ -1,0 +1,17 @@
+body{
+    font-family: 'Roboto Slab', serif;
+}
+h1{
+    font-size: 50px;
+}
+.name{
+    color: coral;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 100px;
+}
+.half-width img{
+    width: 100%;
+}
